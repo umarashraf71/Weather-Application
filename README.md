@@ -4,4 +4,4 @@ Built in NodeJS with the help of weather api which tells weather of all the citi
 
 ## Live Demo
 
-https://maddy-weather-application.herokuapp.com/
+[Weather Application](https://maddy-weather-application.herokuapp.com/)
